@@ -1,6 +1,7 @@
 # FriendFinder
 
-Creating a dating app. This full-stack site will take in results from users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
+Creating a dating app by using Express to handle routing and deploying app to Heroku so other users can fill it out.
+This full-stack site will take in results from users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
 
 ## An overview of the Terminal and Heroku
 
