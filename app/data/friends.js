@@ -1,14 +1,10 @@
-// ===============================================================================
 // DATA
-// Below data will hold all of the reserved tables.
-// Initially we just set it equal to a "dummy" customer.
-// But you could have it be an empty array as well.
-// ===============================================================================
+//changed Ahmed image so it could display
 
 var friendsList = [
   {
       "name":"Ahmed",
-      "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+      "photo":"https://pixel.nymag.com/imgs/daily/vulture/2017/07/19/19-mena-massoud-aladdin-2.w700.h700.jpg",
       "scores":[
           5,
           1,
@@ -24,5 +20,5 @@ var friendsList = [
     }
 ];
 
-// Note how we export the array. This makes it accessible to other files using require.
+// Export the array
 module.exports = friendsList;
